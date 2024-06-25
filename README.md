@@ -1,0 +1,1 @@
+# strategy4_intraday_renko_macd
